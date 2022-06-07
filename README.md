@@ -5,7 +5,6 @@
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
-563D7C
 <img alt="html" src="https://img.shields.io/badge/html--orange?logo=html5&amp;style=flat-square">
 <img alt="css" src="https://img.shields.io/badge/css--blue?logo=css3&logoColor=264DE4&amp;style=flat-square">
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap--563D7C?logo=bootstrap&logoColor=563D7C&amp;style=flat-square">
