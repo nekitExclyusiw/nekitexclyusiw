@@ -6,7 +6,7 @@
 
 # Stats
 
-![Stats 1](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=github_dark)
+![Stats 1](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=darcula)
 
 ### Follow Me on
 
