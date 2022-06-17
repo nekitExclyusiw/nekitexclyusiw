@@ -6,7 +6,8 @@
 ###### Не думайте всерьёз, что я всё это знаю. Я это всё ещё изучаю.
 # Stats
 
-![Stats 1](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=vue-dark)
+![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow Me on
 
