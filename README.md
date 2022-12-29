@@ -1,4 +1,5 @@
 ## Web Developer
+####and desktop developer, too
 
 ### Languages and Tools
 
@@ -29,10 +30,7 @@
 <img alt="firebase" src="https://img.shields.io/badge/firebase--yellowgreen?logo=firebase&amp;style=flat-square">
 <img alt="java" src="https://img.shields.io/badge/java--lightgrey?logo=java&amp;style=flat-square">
 <img alt=".net" src="https://img.shields.io/badge/framework--blueviolet?logo=.net&amp;style=flat-square">
-<img alt="dart" src="https://img.shields.io/badge/dart--blue?logo=dart&logoColor=097CDB&amp;style=flat-square">
-<img alt="flutter" src="https://img.shields.io/badge/flutter--skyblue?logo=flutter&logoColor=47C5FB&amp;style=flat-square">
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb--default?logo=mongodb&amp;style=flat-square">
-<img alt="postgresql" src="https://img.shields.io/badge/postgresql--lightgrey?logo=postgresql&amp;style=flat-square"> -->
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
