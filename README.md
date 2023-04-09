@@ -16,8 +16,8 @@
 
 ### Follow Me on
 
-[![YouTube](https://img.shields.io/badge/Youtube--FF0000?logo=youtube&logoColor=FF0000&amp;style=flat-square)](https://www.youtube.com/channel/UCtMAGrjxTdYOeMBi5HIUjsA)
-[![Instagram](https://img.shields.io/badge/Instagram--E1306C?logo=instagram&logoColor=E1306C&amp;style=flat-square)](https://www.instagram.com/kabarma_official)
+[![YouTube](https://img.shields.io/badge/Youtube--FF0000?logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCtMAGrjxTdYOeMBi5HIUjsA)
+[![Instagram](https://img.shields.io/badge/Instagram--E1306C?logo=instagram&logoColor=E1306C)](https://www.instagram.com/kabarma_official)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kabarma)
 
 <!-- YOUTUBE:START -->
