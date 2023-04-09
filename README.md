@@ -15,7 +15,7 @@
 # Stats
 
 ![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=merko&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow Me on
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kabarma)
