@@ -19,7 +19,7 @@
 ### Follow Me on
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kabarma)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youyube&logoColor=FF0000)](https://www.youtube.com/channel/@kabarma)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/@kabarma)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/kabarma_official)
 
 <!-- YOUTUBE:START -->
