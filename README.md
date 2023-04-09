@@ -1,4 +1,5 @@
 ## Web Developer
+
 #### and desktop developer, too
 
 ### Languages and Tools
@@ -7,18 +8,19 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=3850AE)
-###### Я добавил это всё по приколу, просто чтобы создать образ типичного джуна
+
+#### Я добавил это всё по приколу, просто чтобы создать образ типичного джуна
+
 # Stats
 
-![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=vue-dark)
-
+![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow Me on
 
-[![YouTube](https://img.shields.io/badge/Youtube--090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCtMAGrjxTdYOeMBi5HIUjsA)
-[![Instagram](https://img.shields.io/badge/Instagram--090909?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/kabarma_official)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kabarma)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youyube&logoColor=FF0000)](https://www.youtube.com/channel/@kabarma)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/kabarma_official)
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
