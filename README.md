@@ -8,6 +8,7 @@
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=3850AE)
 ![JAVASCRIPT](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NODE](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=F7DF1E)
+![REACT](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
 ![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&logoColor=666885)
 ![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![DJANGO](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=F5F5F5)
