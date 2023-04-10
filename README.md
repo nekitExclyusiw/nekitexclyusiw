@@ -2,7 +2,7 @@
 
 #### and desktop developer, too
 
-### Languages and Tools
+### Languages
 
 ![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=3850AE)
@@ -12,6 +12,7 @@
 ![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![DJANGO](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=F5F5F5)
 
+### Tools
 ![VSCODE](https://img.shields.io/badge/-VSCODE-090909?style=for-the-badge&logo=visualstudiocode)
 ![WEBSTORM](https://img.shields.io/badge/-webstorm-090909?style=for-the-badge&logo=webstorm)
 ![PYCHARM](https://img.shields.io/badge/-pycharm-090909?style=for-the-badge&logo=pycharm)
