@@ -12,6 +12,10 @@
 ![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![DJANGO](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=F5F5F5)
 
+![VSCODE](https://img.shields.io/badge/-VSCODE-090909?style=for-the-badge&logo=visualstudiocode)
+![WEBSTORM](https://img.shields.io/badge/-webstorm-090909?style=for-the-badge&logo=webstorm)
+![PYCHARM](https://img.shields.io/badge/-pycharm-090909?style=for-the-badge&logo=pycharm)
+![IDEA](https://img.shields.io/badge/-intellij-090909?style=for-the-badge&logo=intellijidea)
 # Stats
 
 ![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=merko&count_private=true)
