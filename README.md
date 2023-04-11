@@ -20,6 +20,8 @@
 ![PYCHARM](https://img.shields.io/badge/-pycharm-090909?style=for-the-badge&logo=pycharm)
 ![IDEA](https://img.shields.io/badge/-intellij-090909?style=for-the-badge&logo=intellijidea)
 
+![VOCALOID](https://img.shields.io/badge/-vocaloid-090909?style=for-the-badge&logo=yamahacorporation)
+
 <!-- # Stats -->
 <!-- ![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=merko&count_private=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5) -->
