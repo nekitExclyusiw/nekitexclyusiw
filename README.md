@@ -23,7 +23,7 @@
 # Stats
 
 ![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=merko&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5)
 
 ### Follow me on
 
