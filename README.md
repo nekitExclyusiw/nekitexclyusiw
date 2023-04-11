@@ -20,11 +20,10 @@
 ![PYCHARM](https://img.shields.io/badge/-pycharm-090909?style=for-the-badge&logo=pycharm)
 ![IDEA](https://img.shields.io/badge/-intellij-090909?style=for-the-badge&logo=intellijidea)
 
-# Stats
-
+<!-- # Stats -->
 <!-- ![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=merko&count_private=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5) -->
-
+<!--  -->
 ### Follow me on
 
 [![Vkontakte](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kabarma)
