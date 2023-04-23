@@ -1,6 +1,7 @@
 ## Web Developer
 ### and desktop developer, too
 I am woring with digital sound as voca-p and programmer
+
 Ocitron project is one of them and it means i will continue development and support of it
 
 ### Languages
@@ -23,12 +24,11 @@ Ocitron project is one of them and it means i will continue development and supp
 
 ![VOCALOID](https://img.shields.io/badge/-vocaloid-1C1C1C?style=for-the-badge&logo=yamahacorporation)
 
-<!-- # Stats -->
+# Stats
 <!-- ![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=merko&count_private=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5) -->
-<!--  -->
-### Follow me on
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5)
 
+### Follow me on
 [![Vkontakte](https://img.shields.io/badge/-Vk-1C1C1C?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kabarma)
 [![YouTube](https://img.shields.io/badge/-YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCtMAGrjxTdYOeMBi5HIUjsA)
 [![Instagram](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/kabarma_official)
