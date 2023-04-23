@@ -1,16 +1,17 @@
 ## Web Developer
-
-#### and desktop developer, too
+### and desktop developer, too
+I am woring with digital sound as voca-p and programmer
+Ocitron project is one of them and it means i will continue development and support of it
 
 ### Languages
 
 ![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=3850AE)
-![JAVASCRIPT](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-44944A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NODE](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
 ![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&logoColor=666885)
-![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+![PYTHON](https://img.shields.io/badge/-python-44944A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![DJANGO](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=F5F5F5)
 
 ### Tools
