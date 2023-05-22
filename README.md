@@ -25,8 +25,8 @@ Ocitron project is one of them and it means i will continue development and supp
 ![VOCALOID](https://img.shields.io/badge/-vocaloid-1C1C1C?style=for-the-badge&logo=yamahacorporation)
 
 # Stats
-<!-- ![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw&show_icons=true&theme=merko&count_private=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&langs_count=5)
+[![My Activity On Github](https://github-readme-stats.vercel.app/api?username=nekitExclyusiw)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekitExclyusiw&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow me on
 [![Vkontakte](https://img.shields.io/badge/-Vk-1C1C1C?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kabarma)
